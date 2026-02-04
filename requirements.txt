@@ -1,0 +1,23 @@
+opencv-python
+face-recognition
+numpy
+dlib
+pandas
+matplotlib
+Pillow
+openpyxl
+flask
+requests
+
+
+-----------------------------------------------------------------
+
+Install Dependencies: It is recommended to use a virtual environment.
+
+pip install -r requirements.txt
+
+
+Run the Application:
+
+Bash
+python main.py
