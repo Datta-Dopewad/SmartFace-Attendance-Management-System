@@ -21,7 +21,7 @@ A professional, offline-first Face Recognition Attendance System built with Pyth
 
 ## 🛠️ Tech Stack
 
-- **Language:** Python 3.x
+- **Language:** Python 3.9.13
 - **GUI Framework:** Tkinter (Custom Styled)
 - **Computer Vision:** OpenCV, Dlib, Face_Recognition
 - **Database:** SQLite3
