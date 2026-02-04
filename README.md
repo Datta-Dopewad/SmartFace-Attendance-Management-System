@@ -32,5 +32,5 @@ A professional, offline-first Face Recognition Attendance System built with Pyth
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/your-username/DigitalFaceAttendanceSystem.git](https://github.com/your-username/DigitalFaceAttendanceSystem.git)
+   git clone [https://github.com/Datta-Dopewad/DigitalFaceAttendanceSystem.git](https://github.com/Datta-Dopewad/DigitalFaceAttendanceSystem.git)
    cd DigitalFaceAttendanceSystem
